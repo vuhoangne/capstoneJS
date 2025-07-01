@@ -289,9 +289,9 @@ Dự án này được phát hành dưới MIT License. Xem file `LICENSE` để
 ## 👨‍💻 Tác giả
 
 **Vu Hoang**
-- GitHub: [(https://github.com/vuhoangne/capstoneJS.git)](https://github.com/vuhoangne/capstoneJS.git)]
+- GitHub: (https://github.com/vuhoangne/capstoneJS.git)](https://github.com/vuhoangne/capstoneJS.git)
 - Email: vuhoangdz2003@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/lenguyenvuhoang-hayden/)]
+- LinkedIn: (https://www.linkedin.com/in/lenguyenvuhoang-hayden/)
 
 ---
 
